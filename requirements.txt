@@ -1,0 +1,9 @@
+streamlit
+openai
+groq
+PyPDF2
+pandas
+openpyxl
+scikit-learn
+numpy
+python-docx
